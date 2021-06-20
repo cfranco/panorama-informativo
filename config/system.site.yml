@@ -1,0 +1,14 @@
+uuid: 924c4b7f-8af0-4578-aa0c-036d284fe600
+name: panorama-informativo
+mail: cfranco@centerweb.com.mx
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
